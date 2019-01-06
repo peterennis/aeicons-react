@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-https://github.com/peterennis/aeicons-react/blob/master/src/assets/aereact.gif
+![](https://github.com/peterennis/aeicons-react/blob/master/src/assets/aereact.gif)
 
 ## Available Scripts
 
