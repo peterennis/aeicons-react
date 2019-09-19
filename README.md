@@ -1,3 +1,5 @@
+# ARCHIVED and Moved to ae-monorepo-react
+
 # aeicons-react
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) for TypeScript.
